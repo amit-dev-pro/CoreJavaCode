@@ -3,7 +3,7 @@ package exceptionHandling;
 /*
 class A
 {
-    public void demo2() throws Exception
+    public void demo2() throws Exception  //ducking concept
     {
         demo1();
     }
